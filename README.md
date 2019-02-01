@@ -1,2 +1,3 @@
-# blueberry-spatzle
-just a repository
+# hello-world
+
+Hello all!
